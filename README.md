@@ -1,7 +1,7 @@
 # Factores asociados al puntaje del Saber 11° 2020-2
 
 Proyecto Integrador de Ciencia de Datos · Maestría en Inteligencia Artificial, Universidad de La Salle
-Autor: Jherson Guzmán Ramírez · Docente: Fabián Camilo Castro Riveros
+Autor: Jherson Guzman Ramarez · Docente: Fabián Camilo Castro Riveros
 
 ¿Cuánto del puntaje global del Saber 11° se asocia con las condiciones del hogar y del colegio, y qué tan bien se puede predecir a partir de ellas? El proyecto recorre el ciclo completo sobre los 504 872 estudiantes que presentaron el examen en el segundo semestre de 2020: exploración, pruebas de hipótesis, PCA y clústeres, regresión, modelos de aprendizaje automático, una red neuronal y un tablero interactivo.
 
