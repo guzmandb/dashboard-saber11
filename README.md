@@ -24,8 +24,9 @@ El tercer comando genera y ejecuta el primer cuaderno, que además crea los dato
 ## Tablero
 
 ```bash
-[streamlit run dashboard/app.py](https://dashboard-saber11-mxddwg5w6lzfusldsbbvle.streamlit.app/)
+[streamlit run dashboard/app.py]
 ```
+(<https://dashboard-saber11-mxddwg5w6lzfusldsbbvle.streamlit.app>)
 
 Para ejecutar solo el tablero basta `pip install -r dashboard/requirements.txt`.
 
