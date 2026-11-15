@@ -1,0 +1,28 @@
+# El repositorio publica la estructura que pide el proyecto:
+# /data, /notebooks, /src, /dashboard (más /r) y requirements.txt.
+# Se ignora todo y se permiten esas rutas una a una.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/.streamlit/
+
+!/src/
+!/notebooks/
+!/r/
+!/dashboard/
+
+# De /data solo va lo liviano: la muestra que usa el tablero. El archivo original se descarga (ver README).
+!/data/
+/data/*
+!/data/raw/
+/data/raw/*
+!/data/raw/.gitkeep
+!/data/processed/
+/data/processed/*
+!/data/processed/muestra_pca_clusters.parquet
+
+# Temporales
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
